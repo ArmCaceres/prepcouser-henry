@@ -1,1 +1,1 @@
-este proyecto es una prueba de un repositorio y clonarlo desde git hub a mi escritorio local
+este es una prueba para ver los cambios  en github
